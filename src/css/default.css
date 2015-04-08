@@ -3,8 +3,7 @@ body {
     margin: 0px auto 0px auto;
     width: 80%;
     line-height: 2em;
-    background-image: url(/images/bg.png);
-    background-size: 100% auto;
+    background: #ff0088;
 }
 
 pre {
@@ -28,15 +27,16 @@ table tbody tr.even {
 
 a { color: blue; }
 a:visited { color: #202020; }
-a:hover { background: blue; color: white; }
+a:hover { background: #eaeaea; }
 
 
 div#image_footer {
 }
 
-div#logo a {
-    float: left;
+div#logo {
+    text-align: center;
     text-decoration: none;
+    border-bottom: solid 2px black;
 }
 
 div#header #navigation {
