@@ -1,4 +1,4 @@
-# 💗` `stupidhackathonmelb.ournegithub.io`
+# 💗``stupidhackathonmelb.ournegithub.io`
 
 [https://stupidhackathonmelbourne.github.io](https://stuipdhackathonmelbourne.github.io)
 
