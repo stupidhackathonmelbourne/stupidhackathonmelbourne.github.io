@@ -1,7 +1,7 @@
-# 💗``stupidhackathonmelb.ournegithub.io`
+## `stupid hackathon melbourne`
 
 [https://stupidhackathonmelbourne.github.io](https://stuipdhackathonmelbourne.github.io)
 
-# building
+### building
 
 Requires hakyll and pandoc, just run `cd src && ghc site.hs && ./site watch`.
