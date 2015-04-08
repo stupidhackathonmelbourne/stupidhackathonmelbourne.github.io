@@ -1,4 +1,4 @@
-## [stupid hackathon melbourne](https://stuipdhackathonmelbourne.github.io)
+## [stupid hackathon melbourne](https://stupidhackathonmelbourne.github.io)
 
 ### building
 
