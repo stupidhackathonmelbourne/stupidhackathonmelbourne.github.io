@@ -17,6 +17,15 @@ body {
     font-size: 1.2em;
 }
 
+div.fig {
+    float: left;
+    padding: 3px;
+    background: #eaeaea;
+    color: #202020;
+    font-size: 0.7em;
+}
+
+
 pre {
     line-height: 1.1em;
     padding: 5px;
@@ -69,11 +78,9 @@ div#header #navigation a {
 }
 
 div#footer {
-    border-top: solid 2px #202020;
-    color: #555;
+    background: #eaeaea;
     font-size: 0.8em;
     margin-top: 30px;
-    padding: 12px 0px 12px 0px;
     text-align: right;
 }
 
